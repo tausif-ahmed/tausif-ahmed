@@ -13,3 +13,6 @@
 ✉️ I'm always open to collaboration and discussing blockchain-related ideas. If you have any questions, or project proposals, or just want to connect, feel free to reach out to me.
 
 Let's build a decentralized future together! 🌍🔗⛓️
+
+You can Support me by buying me a coffee:
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tausif79)
