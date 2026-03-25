@@ -4,7 +4,7 @@ Hi 👋 My name is Tausif Ahmed
 Blockchain Engineer | Smart Contract Developer | Web3 Advocate
 ---------------------------------------------------------------
 
-🚀 Blockchain & Web3 Enthusiast with over a decade in software engineering and 4+ years in blockchain technology. 
+🚀 Blockchain & Web3 Enthusiast with over a decade in software engineering and 6+ years in blockchain technology. 
 
 🔗 From pioneering private permissioned blockchains to creating robust ERC-20 tokens, I specialize in designing secure, scalable decentralized solutions. 
 
