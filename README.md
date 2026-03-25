@@ -24,8 +24,8 @@ Always exploring new opportunities to contribute to open-source projects and col
 
 * 🌍  I'm based in Dubai, United Arab of Emirates
 * 🖥️  See my portfolio at [check website](http://tausifahmed.in)
-* ✉️  You can contact me at [tausif@blocktechbrew.com](mailto:tausif@blocktechbrew.com)
-* 🚀  I'm currently working on [Linux Foundation Decentralised Trust](http://blocktechbrew.com/)
+* ✉️  You can contact me at [tausif.ahmed79@gmail.com](mailto:tausif.ahmed79@gmail.com)
+* 🚀  I'm currently working on [Linux Foundation Decentralised Trust](http://nihoninfotech.com/)
 * 🧠  I'm learning AI & Move Programming
 * 🤝  I'm open to collaborating on open source projects
 * ⚡  I love reading self help books.
